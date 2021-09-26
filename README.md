@@ -8,7 +8,7 @@ I haven't found the written docs, but as I observed it, it mostly depends on `gi
 TODO: list summary of contents.
 
 ## What's next?
-This dotfiles won't install essential packages for you. You have to get it intalled yourself via proper package manager (or your own build). Check the [list of essentials][../blob/master/essentials.txt].
+This dotfiles won't install essential packages for you. You have to get it intalled yourself via proper package manager (or your own build). Check the [list of essentials](../blob/master/essentials.txt).
 
 A package usually initialize its own config file(s) and might conflicts with this (easily can be fixed). Be sure to get this dotfiles initialized then install the package.
 
