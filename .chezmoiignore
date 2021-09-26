@@ -1,0 +1,8 @@
+# See https://www.chezmoi.io/docs/reference/#chezmoiignore
+
+README.md
+LICENSE
+
+*.txt
+*.gz
+*.com

@@ -17,9 +17,15 @@ On Windows (cmd or powershell):
 > chezmoi init --apply gphg
 ```
 
-### 2. Sync (pull)
+### 2. Sync
+1. pull remote:
 ```
 $ chezmoi update
+```
+
+2. apply changes:
+```
+$ chezmoi apply
 ```
 
 More operations, read the [docs page][5].
